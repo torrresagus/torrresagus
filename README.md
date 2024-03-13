@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/MongoDB-00C58E?style=for-the-badge&logo=MongoDB&logoColor=35495E" style="display: inline-block;"/> 
 <img src="https://img.shields.io/badge/MySQL-35495E?style=for-the-badge&logo=MySQL&logoColor=4FC08D" style="display: inline-block;"/> 
 <img src="https://img.shields.io/badge/Requests-00C58E?style=for-the-badge&logo=Python&logoColor=35495E" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/MySQL-35495E?style=for-the-badge&logo=MySQL&logoColor=4FC08D" style="display: inline-block;"/> 
 <br>
 **Infrastructure** 
 <br>
