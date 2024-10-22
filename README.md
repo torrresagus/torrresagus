@@ -1,54 +1,54 @@
 <h1 align="center">Hi 👋, I'm Agustin Torres</h1>
-<h3 align="center">Python Backend Developer - Systems Analyst</h3>
+<h3 align="center">Python Backend Developer - Systems Analyst - AI Enginieer</h3>
 
-- 👀 I’m interested in Information technology
-- 🌱 I’m currently learning Bachelor of Information Technology Management (Systems)
-- 💞️ I’m looking to collaborate on software development, web development, IT security companies and information management
-- 📫 How to reach me agustintorres2001@gmail.com or agustorres@uade.edu.ar
+# 💫 About Me:
+👋 Hi! I’m Agustín Torres, a passionate backend developer with experience in Python and a strong focus on Artificial Intelligence. My passion for technology and continuous learning has led me to work on challenging and innovative projects that combine AI with software development.<br>💼 Experience in AI:<br>Currently, I implement AI solutions at DeQuéSeTrata, where I develop data extraction scripts and contribute to strategic decision-making related to system architecture and AI integration into software solutions.<br>I also worked as an AI Engineer at the Centro de eLearning (UTN FRBA), where I implemented AI-powered chatbots using agents in production, optimized LLMs for educational platforms, and ensured scalable and efficient infrastructure for AI-based interactions.<br>In addition to my full-time roles, I have completed various freelance projects, including developing custom ecommerce solutions and chatbots for businesses, applying advanced AI techniques to improve customer experiences and streamline business processes.<br>🌱 Always Learning: I’m pursuing a degree in Information Technology Management at UADE, which complements my technical experience with skills in IT project management and strategic analysis.<br>📫 How to reach me agustintorres2001@gmail.com or agustorres@uade.edu.ar<br>
 
-**Backend Technologies** 
-<br>
-<img src="https://img.shields.io/badge/Python-00C58E?style=for-the-badge&logo=Python&logoColor=35495E" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/Flask-35495E?style=for-the-badge&logo=Flask&logoColor=4FC08D" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/Selenium-00C58E?style=for-the-badge&logo=Selenium&logoColor=35495E" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/OpenAI-35495E?style=for-the-badge&logo=OpenAI&logoColor=4FC08D" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/MongoDB-00C58E?style=for-the-badge&logo=MongoDB&logoColor=35495E" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/MySQL-35495E?style=for-the-badge&logo=MySQL&logoColor=4FC08D" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/Requests-00C58E?style=for-the-badge&logo=Python&logoColor=35495E" style="display: inline-block;"/> 
-<br>
-**Infrastructure** 
-<br>
-<img src="https://img.shields.io/badge/Apache-aa0000?style=for-the-badge&logo=Apache&logoColor=white" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/Ubuntu-e9500e?style=for-the-badge&logo=Ubuntu&logoColor=white" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/DigitalOcean-0080ff?style=for-the-badge&logo=DigitalOcean&logoColor=61DAFB" style="display: inline-block;"/> 
-<br>
-**Additional Skills** 
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/HTML5-43853D?style=for-the-badge&logo=HTML5&logoColor=white" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=Css3&logoColor=61DAFB" style="display: inline-block;"/> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="display: inline-block;"/> 
 
-<br> 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/torres-agustin/) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=torrresagus&show_icons=true&theme=dark&locale=en&layout=compact" alt="torrresagus" /></p>
-<br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=torrresagus&show_icons=true&theme=dark&locale=en" alt="torrresagus" /></p>
-<br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=torrresagus&theme=dark" alt="torrresagus" /></p>
-<br><br><br><br><br><br><br><br>
+# 💻 Tech Stack:
 
-<hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/torres-agustin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/torres-agustin/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/torres-agustin/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/6244/6244235.png" alt="https://www.linkedin.com/in/torres-agustin/" height="40" width="40" /></a>
-<a href="https://instagram.com/torrresagus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/torrresagus" height="30" width="40" /></a>
-</p>
-<!---
-torrresagus/torrresagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![LangChain](https://img.shields.io/badge/langchain-3670A0?style=for-the-badge&logo=langchain&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Database:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infrastructure:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### DevOps & Version Control:
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Other Tools:
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=torrresagus&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=torrresagus&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=torrresagus&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=torrresagus&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=torrresagus&icon=2&color=1)](https://visitcount.itsvg.in)
